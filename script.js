@@ -1,7 +1,6 @@
 //dom variables
 let form = document.querySelector('form');
 let selectedShape = document.querySelector('#shape-selection');
-let warnings = document.querySelector('#warning-container');
 let warnValue1 = document.querySelector('#warn-value-1');
 let warnValue2 = document.querySelector('#warn-value-2');
 let resultLabel = document.querySelector('#result-label');
